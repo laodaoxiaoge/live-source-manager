@@ -2,6 +2,7 @@
 
 **一个智能、高效的直播源收集、测试和分发系统**  
 *自动聚合多源直播流，智能过滤优质频道，通过Nginx提供稳定可靠的M3U播放列表服务*
+**具体说明请参见 https://zread.ai/yuanshandalishuishou/live-source-manager **  
 
 ---
 
